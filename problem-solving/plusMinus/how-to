@@ -1,0 +1,21 @@
+I need three variables countPos countNeg countZero  
+
+I will store the len of arr in a variable called length
+
+I will store the results of these variables in an array and i will loop over the array and print the values.
+
+
+The challenge here is to print up to six decimal places i got the logic 
+
+fmt.Printf("%.6f",num)
+
+
+What you need to learn:
+
+I thought append will just replace the elements with whatever we provide but it will add
+
+at the end of the array.
+
+Need more learnings on arrays and slices.
+
+Need learnings on formatting output for decimal places.

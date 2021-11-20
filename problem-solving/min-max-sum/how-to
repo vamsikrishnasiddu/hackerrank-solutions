@@ -1,0 +1,31 @@
+just thought of using continue statement for the problem
+
+arr [1,2,3,4,5]
+brr =[]
+count = 0
+
+outer loop{
+    inner loop arr{
+        if count == i 
+
+continue
+
+sum =sum +arr[i]
+
+brr = append(brr,sum)
+
+    }
+    count ++ 
+}
+
+
+loop brr{
+    min = firstelement
+    max = firstelement
+
+    if min>firstelement
+    min = firstelement
+    if max< firstelement 
+    max = firstelement
+
+}
